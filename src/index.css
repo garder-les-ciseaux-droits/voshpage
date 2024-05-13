@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face { 
+    font-family: "playfair"; 
+    src: url("/src/assets/Fonts/ofont.ru_Hero.ttf"); 
+} 
+
+
+@font-face { 
+    font-family: "engry"; 
+    src: url("/src/assets/Fonts/Playfair_Display/Engry/engry.otf"); 
+} 
