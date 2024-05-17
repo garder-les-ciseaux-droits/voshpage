@@ -6,6 +6,7 @@ import Chapter2 from '/src/components/views/Chapter2.vue'
 import Links from '/src/components/Pages/Links.vue'
 import OnlineReading from '/src/components/Pages/OnlineReading.vue'
 import FullAboutAuthor from '/src/components/Pages/FullAboutAuthor.vue'
+import AboutThisHell from '/src/components/Pages/AboutThisHell.vue'
 
 export default createRouter({
     history: createWebHashHistory(),
@@ -40,5 +41,9 @@ export default createRouter({
 
           component: OnlineReading
         },
+        {
+          path: '/thishell',
+          component: AboutThisHell
+        }
       ]
 })

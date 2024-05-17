@@ -1,0 +1,87 @@
+{
+    "availableEstates": [
+        {
+            "name": "Eilean Donan Castle", 
+            "location": "United Kingdom",
+            "price": "58,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/sourav-bhaduri-RBwBmTOkNlc-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Oberhofen Castle", 
+            "location": "Oberhofen, Switzerland",
+            "price": "24,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/samuel-ferrara-_wfjeANNuNE-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Mont Saint-Michel", 
+            "location": "France",
+            "price": "320,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/rita-burza-O4k39YEEdvs-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Calton Hill", 
+            "location": "Edinburgh, United Kingdom",
+            "price": "35,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/nicola-gadler-6ryqCVGWxUM-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Edinburgh Castle", 
+            "location": "Edinburgh, United Kingdom",
+            "price": "58,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/jorg-angeli-S56zN8cV5fk-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Croy Castle", 
+            "location": "North Brabant, Netherlands",
+            "price": "14,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/joran-quinten-AqtBNTHQeAI-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Eilean Donan Castle", 
+            "location": "Dornie, United Kingdom",
+            "price": "19,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/george-hiles-HXHHPVkUlxs-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Castello di Roccascalegna", 
+            "location": "Province of Chieti, Abruzzo, Italy",
+            "price": "29,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/federico-di-dio-photography-B-WKLgavSXs-unsplash.jpg"],
+            "main": false
+        },
+        {
+            "name": "Château de Chambord", 
+            "location": "Chambord, France",
+            "price": "169,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/dorian-mongel-PuRFKwR4B2o-unsplash.jpg"],
+            "main": false
+        }
+        
+        
+        
+    ],
+    "specialEstates": [
+        {
+            "name": "Castle Neuschwanstein", 
+            "location": "Bavaria, Germany",
+            "price": "225,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/lanju-fotografie-cvS-IDyGKTE-unsplash.jpg"],
+            "main": true
+        },
+        {
+            "name": "Hampton Court Castle", 
+            "location": "United Kingdom",
+            "price": "45,000,000",
+            "pictures": ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/tobias-rademacher-uUHp_T2HhkM-unsplash.jpg"],
+            "main": true
+        }
+    ]
+
+}

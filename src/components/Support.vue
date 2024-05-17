@@ -2,7 +2,7 @@
     <div class="flex-col flex w-full h-full text-white font-playfair grid-cols-1 justify-center items-center mx-4 text-base md:text-2xl text-center drop-shadow-2xl">
         <span>Вы можете поддержать меня, купив книгу на&nbsp;
         </span>    
-        <a href="https://www.litres.ru" target="_blank" class="text-[#ff0069] underline">&nbsp;Литрес&nbsp;</a> 
+        <a href="https://www.litres.ru/book/evan-vosh/etot-ad-on-kak-ray-tolko-po-adski-osobennyy-70640110/" target="_blank" class="text-[#ff0069] underline">&nbsp;Литрес&nbsp;</a> 
         <span>&nbsp;за 119 рублей.</span>
     </div>
     
