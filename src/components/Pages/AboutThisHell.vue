@@ -76,8 +76,8 @@ export default {
   },
   data() {
     return {
-        characters: [{name: "Ашаир Ва-Иута", image: '/src/assets/Images/characters/ashairweb.png'}, {name: "Кайри Мирай", image: "/src/assets/Images/characters/miraiweb.png"}, {name: "Ноктюрна фон Бернатте", image: "/src/assets/Images/characters/nocturnaweb.png"}, {name: "Люциан фон Бернатте", image: "/src/assets/Images/characters/lucianweb2.png"}, {name: "Корвин Корвиус", image: "/src/assets/Images/characters/korvinweb.png"}, {name: "Шелор", image: "/src/assets/Images/characters/Shelorweb.png"}],
-        illustrations: ["/src/assets/Images/characters/illistrations/ashairchasing.png", "/src/assets/Images/characters/illistrations/AshairOnbed.png", "/src/assets/Images/characters/illistrations/AshairPortrait.png", "/src/assets/Images/characters/illistrations/nocturnaatchurch.png"],
+        characters: [{name: "Ашаир Ва-Иута", image: 'https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/ashairweb.png'}, {name: "Кайри Мирай", image: "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/miraiweb.png"}, {name: "Ноктюрна фон Бернатте", image: "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/nocturnaweb.png"}, {name: "Люциан фон Бернатте", image: "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/lucianweb2.png"}, {name: "Корвин Корвиус", image: "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/korvinweb.png"}, {name: "Шелор", image: "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/Shelorweb.png"}],
+        illustrations: ["https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/ashairchasing.png", "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/AshairOnbed.png", "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/AshairPortrait.png", "https://raw.githubusercontent.com/garder-les-ciseaux-droits/echidna/main/uploads/nocturnaatchurch.png"],
         settings: {
       itemsToShow: 2,
       snapAlign: 'center',
