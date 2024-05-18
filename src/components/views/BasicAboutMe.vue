@@ -1,8 +1,8 @@
 <template>
     <div class="w-full h-full font-serif bg-white text-black flex justify-center items-center min-w-0 max-w-full">
-        <div class="w-full md:w-[1280px] h-full flex justify-center pt-10 mx-4">
+        <div class="w-full md:w-[1280px] h-full flex justify-center py-10 px-2 mx-4">
             <div>
-                <img class="w-32 h-22" src="/src/assets/Images/2im-2.png"/>
+                <img class="w-32 h-22 hidden md:flex" src="/src/assets/Images/2im-2.png"/>
             </div>
             <div class="flex flex-col w-full min-w-0 max-w-full overflow-y-auto min-w-[150px]">
                 <h1 class="text-lg md:text-xl font-bold">Кратко об авторе</h1>

@@ -51,7 +51,7 @@
             
 
         </div>
-        <div class="bg-red-100 w-full flex min-w-0 h-[300px] w-full">
+        <div class="w-full flex min-w-0 h-auto w-full">
             <BasicAboutMe/>
         </div> 
         <div class="w-full h-[200px] flex justify-center items-center">
