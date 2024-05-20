@@ -2,7 +2,7 @@
     <div class="w-full h-full flex flex-col justify-center items-center mx-4 min-w-0">
       <div class="w-full bg-re md:w-[1280px] h-full space-y-4 md:space-y-10 bg-black flex flex-col items-center justify-start p-4 md:p-10 min-w-0 max-w-full">
         <div class="w-full text-xs md:text-lg h-[50px] flex font-engry text-white justify-center items-center">
-          <div class="w-full h-full grid-cols-1 text-[2vw] md:text-xl min-w-[470px] flex justify-center items-center text-center">
+          <div class="w-full h-full grid-cols-1 text-[2vw] min-w-[470px] flex justify-center items-center text-center">
             <span>Этот Ад</span>
             <span> - он как</span>
             <span class="text-[#ff0069] mr-1 ml-1"> Рай, </span>
