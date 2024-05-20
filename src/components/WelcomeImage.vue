@@ -9,8 +9,8 @@
                         <p>как</p>
                         <p class="text-[#ff0069]">Рай</p>
                     </div>
-                    <div class="bg-white md:bg-transparent h-[30px] w-[150px] flex items-center text-base md:text-4xl">
-                        <p class="drop-shadow-[0_7px_5px_rgba(255,255,255,1)]"> только</p> 
+                    <div class="bg-white md:bg-transparent h-auto md:h-[30px] w-[90px] flex items-center text-base md:text-4xl">
+                        <p class="md:drop-shadow-[0_7px_5px_rgba(255,255,255,1)]">только</p> 
                     </div>
                     
                     <div class="flex items-center text-base md:text-4xl">

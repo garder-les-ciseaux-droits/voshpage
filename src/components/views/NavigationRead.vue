@@ -56,7 +56,7 @@
     <div class="w-full h-full flex justify-center">
         <nav class="w-[1280px] h-full flex text-white justify-center font-playfair text-xs md:text-base md:mx-10">
             <div class="w-1/4 h-full flex items-center md:justify-start justify-center">
-                <router-link to="/" class="pl-14 md:pl-0 hover:text-[#ff0069]">EVAN VOSH PAGE</router-link>
+                <router-link to="/" class="pl-6 md:pl-0 hover:text-[#ff0069]">EVAN VOSH PAGE</router-link>
             </div>
             <div class="w-3/4 h-full flex justify-center items-center space-x-14">
                 <router-link to="/links" class="hidden md:flex font-playfair hover:text-[#ff0069]">Книги</router-link>
