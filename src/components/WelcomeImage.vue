@@ -15,14 +15,14 @@
                     
                     <div class="flex items-center text-base md:text-4xl">
                         <p class="text-[#ff0069]">по-</p>
-                        <p class="text-white bg-[#1f1f1f] w-[160px] md:w-[190px] h-[40px] flex items-center">адски</p>
+                        <p class="text-white bg-[#1f1f1f] w-auto px-2 md:px-0 md:w-[190px] h-auto flex items-center">адски</p>
                     </div>
                     
                     <p class="drop-shadow-[0_1px_4px_rgba(255,255,255,1)] text-base md:text-4xl">особенный</p>
                     <div class="bg-black text-white border-2 border-black justify-center w-[140px] md:w-[200px] h-[30px] flex items-center text-xl md:text-4xl">
                         <p class="text-base md:text-xl">Эван Вош</p>
                     </div>
-                    <div class="flex md:hidden font-sans w-[120px] h-[60px] text-xs flex items-center justify-start">
+                    <div class="flex md:hidden font-sans w-[120px] h-[60px] text-xs flex items-center justify-start z-50">
                         <router-link to="/read">
                             <button class="bg-white  w-[120px] h-[40px] rounded-3xl drop-shadow-xl hover:bg-[#121212] hover:text-white">Читать Онлайн</button>
                         </router-link>

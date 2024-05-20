@@ -88,7 +88,7 @@
             </nav>
           </div>      
         </div>
-        <div class="w-full h-[1500px] min-w-0 min-h-0">
+        <div v-if="burgerMenuShown != true" class="w-full h-[1500px] min-w-0 min-h-0">
           <WelcomeImage/>
         </div>
         
