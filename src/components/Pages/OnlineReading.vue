@@ -3,7 +3,7 @@
         <div class="w-full h-[100px] bg-[#010204]">
             <Navigation/>
         </div>
-        <div class="w-full h-[690px] overflow-y-auto flex justify-center">
+        <div class="w-full h-full overflow-y-auto flex justify-center">
           <div class="w-[1180px] h-fit text-white bg-[#010204] text-left flex justify-center min-w-0 mx-0 md:mx-10">
             <div v-show="index === currentChapter" class="w-[1000px] h-full pt-10 pb-24 px-4 space-y-4 flex flex-col items-center" v-for="(chapter,index) in bookText.thishellis" :key="chapter.id">
               <h1 v-show="index === 0" class="font-bold text-2xl">Этот Ад - он как Рай, только по-адски особенный.</h1>
