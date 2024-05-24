@@ -11,13 +11,13 @@
               <div  class="w-full h-full flex flex-col items-start space-y-4 ">
                 <p v-for="paragraph in chapter.text" :key="paragraph.id" class="text-white">{{ paragraph }}</p>
               </div>
-              <h3 class="text-[#ff0069] hover:text-white">Следующая глава выйдет в понедельник. Спасибо за прочтение!</h3>
+              <h3 v-show="index + 1 === bookText.thishellis.length" class="text-[#ff0069] hover:text-white">Следующая глава выйдет в понедельник. Спасибо за прочтение!</h3>
               <div class="w-full h-[100px] flex items-end">
                 <div class="w-1/2 h-full flex justify-start">
                   <button class="hover:text-[#ff0069]" v-show="index >= 1" @click="currentChapter--">Предыдущая Глава</button>
                 </div>
                 <div class="w-1/2 h-full flex justify-end">
-                  <button class="hover:text-[#ff0069]" v-show="bookText.thishellis.length != 1" @click="currentChapter++">Следующая Глава</button>
+                  <button class="hover:text-[#ff0069]" v-show="bookText.thishellis.length != 1 && index + 1 !== bookText.thishellis.length" @click="currentChapter++">Следующая Глава</button>
                 </div>
               </div>
             </div>
